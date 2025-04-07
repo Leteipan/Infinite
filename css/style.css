@@ -1005,6 +1005,7 @@ opacity: 0.9;
     align-items: center;
     justify-content: center;
     transition: 0.5s;
+    display: none;
 }
 
 .header-carousel .owl-nav .owl-prev {
@@ -1016,6 +1017,7 @@ opacity: 0.9;
 .header-carousel .owl-nav .owl-next {
     bottom: 30px;
     left: 30px;
+    display: none;
 }
 
 .header-carousel .owl-nav .owl-prev:hover,
