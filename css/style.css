@@ -1011,6 +1011,7 @@ opacity: 0.9;
     bottom: 30px;
     left: 30px;
     margin-left: 90px;
+    display: none;
 }
 .header-carousel .owl-nav .owl-next {
     bottom: 30px;
@@ -1047,6 +1048,7 @@ opacity: 0.9;
         left: 50%;
         transform: translateX(-50%);
         margin-left: -45px;
+        display: none;
     }
 
 
