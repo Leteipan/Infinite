@@ -543,6 +543,8 @@ progress {
     }
     .follow-us{
         font-size: small;
+        display: flex;
+        flex-direction: row;
     }
 }
 
@@ -552,6 +554,8 @@ progress {
     }
     .follow-us{
         font-size: small;
+        display: flex;
+        flex-direction: row;
     }
 }
 
